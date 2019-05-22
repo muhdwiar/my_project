@@ -1,0 +1,31 @@
+.button-style{
+	width: 300px
+}
+
+.text-black-shadow{
+	text-shadow: 2px 2px 5px black;
+}
+
+.footer-height{
+	height: 180px;
+	padding-top: 35px;
+}
+
+.footer-height-0{
+	height: 50px;
+	padding-top: 10px;
+}
+
+.header-text{
+	padding-top: 130px;	
+}
+
+.profile-font-style{
+	font-size: 20px;
+}
+
+@media only screen and (max-width: 1024px){
+	.delete-item{
+		display: none;
+	}
+}
