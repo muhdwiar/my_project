@@ -1,0 +1,9 @@
+{
+	IDKota {
+		id
+		nama
+		kota
+		provinsi
+		kodepos
+	}
+}
